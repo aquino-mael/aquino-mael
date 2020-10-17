@@ -3,39 +3,35 @@
 
 Aqui estão algumas informações rápidas do que você irá encontrar:
 
+	 📱  Mobile Developer
+	 🚀 in PJA
+	 🌎 Impeatriz, MA, BR
+	 
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ismalware&count_private=true&show_icons=true&theme=radical" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismalware&layout=compact&theme=radical" />
 
 ### Esse sou eu
 
-- Um desenvolvedor <strong>Mobile</strong>
+- 💻 Um desenvolvedor <strong>Mobile</strong>
 
-- Estudando <strong>Flutter</strong>, <strong>UX/UI</strong>
+- 📚 Estudando <strong>Flutter</strong>, <strong>UX/UI</strong>
 
-- que está sempre em busca das melhores práticas para um bom <strong>Café</strong>
+- ☕ que está sempre em busca das melhores práticas para um bom <strong>Café</strong>
 
 
 ### Linguagens e Conhecimentos
-<img
-  src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"
-  alt="Linux"
-  width="40"
-  height="40"
-/> <img
-  src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg"
-  alt="HTML5"
-  width="40"
-  height="40"
-/> <img
-  src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png"
-  alt="Flutter"
-  width="40"
-  height="40"
-/> <a 
-  href="https://flutter.dev/" target="_blank">
-  <img
-    src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png"
-    alt="Flutter"
-    width="40"
-    height="40"
-  />
-</a>
+
+<p align="center">
+  
+  <a href="https://dart.dev">![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)</a>
+  <a href="https://flutter.dev">![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter)</a>
+  <a href="https://www.javascript.com/">![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)</a>
+  <a href="https://node.org/">![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
+  <a href="https://www.w3schools.com/html/">![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  <a href="https://www.w3schools.com/css/">![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+  <a href="https://www.java.com/pt-BR/">![Java](https://img.shields.io/badge/-Java-a02300?style=flat-square&logo=Java)
+  <a href="https://git-scm.com/">![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  <a href="https://github.com/">![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)</a>
+  <a href="https://code.visualstudio.com/">![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)</a>
+
+</p>
