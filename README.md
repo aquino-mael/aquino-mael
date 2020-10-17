@@ -38,5 +38,9 @@ Aqui estão algumas informações rápidas do que você irá encontrar:
 
 ### Me encontre 🔍
 
-<a target="_blank" href="https://www.linkedin.com/in/ismael-aquino-14b7a4195/">![Linkedin](https://img.shields.io/badge/-linkedin-0098D9?style=flat-square&logo=linkedin)</a>
-<a target="_blank" href="https://www.instagram.com/ismael_aquino__/">![Instagram](https://img.shields.io/badge/-instagram-F0F0F0?style=flat-square&logo=instagram)</a>
+<p align="center">
+
+  <a target="_blank" href="https://www.linkedin.com/in/ismael-aquino-14b7a4195/">![Linkedin](https://img.shields.io/badge/-linkedin-0098D9?style=flat-square&logo=linkedin)</a>
+  <a target="_blank" href="https://www.instagram.com/ismael_aquino__/">![Instagram](https://img.shields.io/badge/-instagram-F0F0F0?style=flat-square&logo=instagram)</a>
+
+</p>
