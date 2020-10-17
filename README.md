@@ -16,7 +16,7 @@ Aqui estão algumas informações rápidas do que você irá encontrar:
 
 - 📚 Estudando <strong>Flutter</strong>, <strong>UX/UI</strong>
 
-- ☕ que está sempre em busca das melhores práticas para um bom <strong>Café</strong>
+- ☕ Que está sempre em busca das melhores práticas para um bom <strong>Café</strong>
 
 
 ### Linguagens e Conhecimentos 📚 🧑‍💻
