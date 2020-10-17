@@ -1,4 +1,4 @@
-### Olá amigo, me chamo Ismael Aquino <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">😀
+## Olá amigo, me chamo Ismael Aquino <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">😀
 #### Seja bem-vindo ao meu GitHub
 
 Aqui estão algumas informações rápidas do que você irá encontrar:
@@ -10,7 +10,7 @@ Aqui estão algumas informações rápidas do que você irá encontrar:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ismalware&count_private=true&show_icons=true&theme=radical" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismalware&layout=compact&theme=radical" />
 
-### Esse sou eu
+### Esse sou eu 😀
 
 - 💻 Um desenvolvedor <strong>Mobile</strong>
 
@@ -19,7 +19,7 @@ Aqui estão algumas informações rápidas do que você irá encontrar:
 - ☕ que está sempre em busca das melhores práticas para um bom <strong>Café</strong>
 
 
-### Linguagens e Conhecimentos
+### Linguagens e Conhecimentos 📚 🧑‍💻
 
 <p align="center">
   
@@ -36,7 +36,7 @@ Aqui estão algumas informações rápidas do que você irá encontrar:
 
 </p>
 
-### Me encontre
+### Me encontre 🔍
 
 <a target="_blank" href="https://www.linkedin.com/in/ismael-aquino-14b7a4195/">![Linkedin](https://img.shields.io/badge/-linkedin-0098D9?style=flat-square&logo=linkedin)</a>
 <a target="_blank" href="https://www.instagram.com/ismael_aquino__/">![Instagram](https://img.shields.io/badge/-instagram-F0F0F0?style=flat-square&logo=instagram)</a>
