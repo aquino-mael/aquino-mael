@@ -9,6 +9,7 @@ Aqui estão algumas informações rápidas do que você irá encontrar:
 	 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ismalware&count_private=true&show_icons=true&theme=radical" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismalware&layout=compact&theme=radical" />
+[![IsMalware's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IsMalware)](https://github.com/IsMalware/github-readme-stats)
 
 ### Esse sou eu 😀
 
