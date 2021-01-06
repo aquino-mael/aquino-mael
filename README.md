@@ -17,6 +17,8 @@ Aqui estão algumas informações rápidas do que você irá encontrar:
 
 - 💻 Um desenvolvedor <strong>Mobile</strong>
 
+- 👑 Dono da <strong><a href="https://www.youtube.com/channel/UC_F80El0T8ILGZBq0oDqawA" target="_blank">OnFire!</a></strong>
+
 - 📚 Estudando <strong>Flutter</strong>, <strong>UX/UI</strong>
 
 - ☕ Que está sempre em busca das melhores práticas para um bom <strong>Café</strong>
