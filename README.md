@@ -23,9 +23,9 @@ Aqui estão algumas informações rápidas do que você irá encontrar:
 
 <p align="center">
   
-  <a target="_blank" href="https://dart.dev">![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)</a> 
-  <a target="_blank" href="https://flutter.dev">![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter)</a> 
+  <a target="_blank" href="https://dart.dev">![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart)</a> 
   <a target="_blank" href="https://firebase.google.com/">![Firebase](https://img.shields.io/badge/-Firebase-FA5741?style=flat-square&logo=firebase&logoColor=orange)</a>
+  <a target="_blank" href="https://flutter.dev">![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter)</a> 
   <a target="_blank" href="https://www.w3schools.com/html/">![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)</a> 
   <a target="_blank" href="https://www.w3schools.com/css/">![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)</a> 
   <a target="_blank" href="https://www.javascript.com/">![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)</a> 
