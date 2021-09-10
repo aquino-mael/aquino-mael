@@ -29,9 +29,7 @@ Aqui estão algumas informações rápidas do que você irá encontrar:
   <a target="_blank" href="https://www.w3schools.com/css/">![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)</a> 
   <a target="_blank" href="https://www.javascript.com/">![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)</a>
   <a target="_blank" href="https://www.java.com/pt-BR/">![Java](https://img.shields.io/badge/-Java-a02300?style=flat-square&logo=Java)</a> 
-  <a target="_blank" href="https://git-scm.com/">![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)</a> 
-  <a target="_blank" href="https://github.com/">![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)</a> 
-  <a target="_blank" href="https://code.visualstudio.com/">![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)</a>
+  <a target="_blank" href="https://git-scm.com/">![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)</a>
   <a>![Linux](https://img.shields.io/badge/-Linux-FAFAFA?style=flat-square&logo=linux&logoColor=black)</a>
 
 </p>
