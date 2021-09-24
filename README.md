@@ -1,7 +1,7 @@
 ## Olá amigo, me chamo Ismael Aquino <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">😀
 #### Seja bem-vindo ao meu GitHub
 
-Aqui estão algumas informações rápidas do que você irá encontrar:
+Algumas informações sobre mim:
 
 	 📱 Mobile Developer
 	 🌎 Impeatriz, MA, BR
