@@ -25,11 +25,13 @@ Algumas informações sobre mim:
   <a target="_blank" href="https://dart.dev">![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart)</a> 
   <a target="_blank" href="https://firebase.google.com/">![Firebase](https://img.shields.io/badge/-Firebase-FA5741?style=flat-square&logo=firebase&logoColor=orange)</a>
   <a target="_blank" href="https://flutter.dev">![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter)</a> 
+  <a target="_blank" href="https://developer.android.com/">![Android](https://img.shields.io/badge/-Android-009900?style=flat-square&logo=android)</a>
+  <a target="_blank" href="https://developer.android.com/kotlin">![Kotlin](https://img.shields.io/badge/-Kotlin-b15a00?style=flat-square&logo=kotlin)</a>
   <a target="_blank" href="https://www.w3schools.com/html/">![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)</a> 
   <a target="_blank" href="https://www.w3schools.com/css/">![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)</a> 
   <a target="_blank" href="https://www.javascript.com/">![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)</a>
   <a target="_blank" href="https://www.java.com/pt-BR/">![Java](https://img.shields.io/badge/-Java-a02300?style=flat-square&logo=Java)</a> 
-  <a target="_blank" href="https://git-scm.com/">![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)</a>
+  <a target="_blank" href="https://git-scm.com/">![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)</a> 
   <a>![Linux](https://img.shields.io/badge/-Linux-FAFAFA?style=flat-square&logo=linux&logoColor=black)</a>
 
 </p>
