@@ -13,8 +13,10 @@ Algumas informações sobre mim:
 	 📱  Mobile Developer
 	 🌎 Impeatriz - MA, Brasil
 	 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aquino-mael&count_private=true&show_icons=true&theme=radical" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquino-mael&layout=compact&theme=radical" />
+<p align="center">
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=aquino-mael&count_private=true&show_icons=true&theme=radical" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquino-mael&layout=compact&theme=radical" />
+</p>
 
 
 ## 🛠️ Minhas Ferramentas Favoritas
