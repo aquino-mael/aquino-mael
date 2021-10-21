@@ -22,7 +22,8 @@ Algumas informações sobre mim:
 ## 🛠️ Minhas Ferramentas Favoritas
 
   <a target="_blank" href="https://dart.dev">![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart)</a> 
-  <a target="_blank" href="https://flutter.dev">![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter)</a> 
+  <a target="_blank" href="https://flutter.dev">![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter)</a>
+  <a target="_blank" href="https://docs.microsoft.com/pt-br/dotnet/csharp/">![CSharp](https://img.shields.io/badge/-CSharp-3b2d57?style=flat-square&logo=CSharp)</a> 
   <a target="_blank" href="https://firebase.google.com/">![Firebase](https://img.shields.io/badge/-Firebase-FA5741?style=flat-square&logo=firebase&logoColor=orange)</a> 
   <a target="_blank" href="https://developer.android.com/">![Android](https://img.shields.io/badge/-Android-009900?style=flat-square&logo=android)</a> 
   <a target="_blank" href="https://developer.android.com/kotlin">![Kotlin](https://img.shields.io/badge/-Kotlin-b15a00?style=flat-square&logo=kotlin)</a> 
