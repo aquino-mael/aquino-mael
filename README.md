@@ -12,8 +12,8 @@
 	 🌎 Impeatriz - MA, Brasil
 	 
 <p align="center">
-	<img align="center" width=500 heigth=200 src="https://github-readme-stats.vercel.app/api?username=aquino-mael&count_private=true&show_icons=true&theme=radical" />
-	<img align="center" width=500 heigth=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquino-mael&layout=compact&theme=radical" />
+	<img align="center" width=250 heigth=200 src="https://github-readme-stats.vercel.app/api?username=aquino-mael&count_private=true&show_icons=true&theme=radical" />
+	<img align="center" width=250 heigth=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquino-mael&layout=compact&theme=radical" />
 </p>
 
 
