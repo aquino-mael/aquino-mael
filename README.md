@@ -1,5 +1,5 @@
 <h3 align="center">
-  Olá amigo, Seja bem-vindo ao meu GitHub
+  Olá, Seja bem-vindo
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px">😀
 </h3>
 <p align="center">
