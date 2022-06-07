@@ -1,6 +1,6 @@
 <h3 align="center">
   Olá, Seja bem-vindo
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px">😀
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20" height="20">😀
 </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/ismael-aquino/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-2986cc.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
