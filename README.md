@@ -10,10 +10,14 @@
 
 	 📱 Mobile Developer
 	 🌎 Impeatriz - MA, Brasil
-	 
 <p align="center">
-	<img align="center" width=400 heigth=300 src="https://github-readme-stats.vercel.app/api?username=aquino-mael&count_private=true&show_icons=true&theme=radical" />
-	<img align="center" width=400 heigth=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquino-mael&layout=compact&theme=radical" />
+	<table>
+		<tr>
+			<td><a href="https://github.com/aquino-mael"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquino-mael&layout=compact&theme=radical" /></a></td>
+			<td><a href="https://github.com/aquino-mael"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aquino-mael&theme=radical&hide_border=true" /></a></td>
+			<td><a href="https://github.com/aquino-mael"><img src="https://github-readme-stats.vercel.app/api?username=aquino-mael&count_private=true&show_icons=true&theme=radical" /></a></td>
+		</tr>
+	</table>
 </p>
 
 
