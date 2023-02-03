@@ -6,11 +6,6 @@
   <a href="https://www.linkedin.com/in/ismael-aquino/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-2986cc.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/_aquino.mael/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-ed72b6.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a href="mailto:ismaellAquino@hotmail.com"><img alt="Email" title="Email" src="https://img.shields.io/badge/Email-4de874?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-	 📱 Mobile Developer
-	 🌎 Impeatriz - MA, Brasil
-<p align="center">
 	<table>
 		<tr>
 			<td><a href="https://github.com/aquino-mael"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquino-mael&layout=compact&theme=radical" /></a></td>
