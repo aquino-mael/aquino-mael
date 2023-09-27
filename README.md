@@ -8,7 +8,6 @@
 	<a href="mailto:ismaellAquino@hotmail.com"><img alt="Email" title="Email" src="https://img.shields.io/badge/Email-4de874?style=for-the-badge&logo=gmail&logoColor=white"/></a><br>
 	<table align="center">
 		<tr>	
-			<td><a href="https://github.com/aquino-mael"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aquino-mael&theme=radical&hide_border=true&mode=weekly&locale=pt_BR" /></a></td>
 			<td><a href="https://github.com/aquino-mael"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquino-mael&layout=compact&hide_border=true&theme=radical" /></a></td>
 			<td><a href="https://github.com/aquino-mael"><img src="https://github-readme-stats.vercel.app/api?username=aquino-mael&count_private=true&show_icons=true&hide_border=true&theme=radical" /></a></td>
 		</tr>
