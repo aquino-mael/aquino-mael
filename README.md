@@ -4,9 +4,13 @@
 
 </div>
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ismael_Aquino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-aquino/)
 [![GitHub](https://img.shields.io/badge/GitHub-aquino--mael-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aquino-mael)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismaellAquino@hotmail.com)
+
+</div>
 
 ## 🚀 About Me
 
