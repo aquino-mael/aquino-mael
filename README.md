@@ -1,30 +1,48 @@
-<h3 align="center">
-  Hello, there! 
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20" height="20">😀
-</h3>
-<p align="center">
-  	<a href="https://www.linkedin.com/in/ismael-aquino/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-2986cc.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-	<a href="mailto:ismaellAquino@hotmail.com"><img alt="Email" title="Email" src="https://img.shields.io/badge/Email-4de874?style=for-the-badge&logo=gmail&logoColor=white"/></a><br>
-	<table align="center">
-		<tr>	
-			<td>
-				<a href="https://github.com/aquino-mael"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquino-mael&layout=compact&hide_border=true&theme=radical" /></a>
-			</td>
-			<td>
-				<a href="https://github.com/aquino-mael"><img src="https://github-readme-stats.vercel.app/api?username=aquino-mael&count_private=true&show_icons=true&hide_border=true&theme=radical" /></a 
-			</td>
-		</tr>
-	</table>
-</p>
+<div align="center">
 
+# Hey there! I'm Ismael Aquino 👋
 
-<h2>🛠️ Technologies</h2>
+</div>
 
-  <a target="_blank" href="https://dart.dev">![Dart](https://img.shields.io/badge/-Dart-000000?style=flat-square&logo=Dart)</a>
-  <a target="_blank" href="https://flutter.dev">![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat-square&logo=Flutter)</a>
-  <a target="_blank" href="https://www.swift.org/">![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=iOS&logoColor=white)</a>
-  <a target="_blank" href="https://www.swift.org/">![Swift](https://img.shields.io/badge/-Swift-000000?style=flat-square&logo=swift&logoColor=orange)</a>
-  <a target="_blank" href="https://developer.android.com/">![Android](https://img.shields.io/badge/-Android-000000?style=flat-square&logo=android)</a>
-  <a target="_blank" href="https://developer.android.com/kotlin">![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat-square&logo=kotlin)</a>
-  <a target="_blank" href="https://www.sqlite.org/index.html">![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat-square&logo=sqlite)</a>
-  <a target="_blank" href="https://firebase.google.com/">![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat-square&logo=firebase&logoColor=orange)</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ismael_Aquino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-aquino/)
+[![GitHub](https://img.shields.io/badge/GitHub-aquino--mael-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aquino-mael)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismaellAquino@hotmail.com)
+
+## 🚀 About Me
+
+I'm a **Senior Mobile Engineer** from Brazil 🇧🇷 with strong expertise in **Flutter**, **iOS (SwiftUI & UIKit)**. I'm passionate about clean architecture, modular app design, and integrating **AI** and **machine learning** into mobile experiences.
+
+I’ve built apps ranging from GPS tracking systems to AI-powered drinking games — always prioritizing **scalability**, **performance**, and great **user experiences**.
+
+I'm a lifelong learner currently pursuing a degree in **Computer Science**, practicing **English daily**, and exploring areas like **cryptography**, **SQLite optimization**, and **local LLMs** for on-device AI.
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Mobile Development**
+<br>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=apple&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+**Databases & Storage**
+<br>
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Secure Storage](https://img.shields.io/badge/Secure_Storage-4CAF50?style=for-the-badge)
+
+**Languages & Scripting**
+<br>
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=apple&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+---
+
+## ✨ Fun Facts
+
+- 🛠️ I love customizing Linux and building dockerized environments.
+- 🧪 I'm fascinated by real-time systems, AI model inference, and embedded logic for smart behavior.
+- 🎯 My goal is to become a specialist in mobile + AI hybrid applications.
